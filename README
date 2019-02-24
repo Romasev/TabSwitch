@@ -1,0 +1,8 @@
+Tab switch
+
+To use this script you need to: 
+1. Create a wrapper of our tabs with the info-header class.
+2. In it to Deposit themselves tabs with class info-header-tab. 
+3. The contents of the tabs are wrapped in a div with the info-tabcontent class.
+
+The order of the tabs (info-header-tab) must match the order of the content (info-tabcontent)
